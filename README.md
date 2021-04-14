@@ -1,0 +1,3 @@
+# term2_final_project
+This is a project for educational purposes. Feel free to look at this amature code... 
+:P
